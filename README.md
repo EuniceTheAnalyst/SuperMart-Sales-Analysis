@@ -1,9 +1,11 @@
 ### Supermart Sales Analysis Report  
 ## Executive Summary  
 This report provides a thorough analysis of Supermart’s sales data, visualized through a business intelligence dashboard. The data spans across various cities, product lines, customer demographics, and payment methods. With a total sales figure of $322,970 and a gross income of $15,380, the dashboard uncovers patterns, trends, and performance insights across a variety of business dimensions. This report is intended to support data-driven decision-making and strategic planning for improved performance.  
+
 ### SuperMart Sales Analysis Dashboard  
 
-https://github.com/EuniceTheAnalyst/SuperMart-Sales-Analysis/commit/2cddef42e0abf869a693ccca5280e936abe5004c#diff-7c9899bb86265474dd83dde51affafaa2da20f12c65db0090d814de45487f12a  
+![Screenshot 2025-04-10 085055](https://github.com/user-attachments/assets/4d551fe2-9413-4805-bd6d-2fb7e82486f4)
+ 
   
 ## 1. Key Performance Indicators (KPIs)  
 **1.1 Total Sales and Gross Income**  
